@@ -1,4 +1,4 @@
-# askeditor-com
+# AskEditor
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,131 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-askeditor-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://askeditor.com/
+AskEditor is an AI video studio for founders, creators and small teams. Describe a video and an agent plans and makes it, or attach a clip you already shot and ask for the change you want; either way it lands on a real, frame-accurate timeline in your own brand, and posts to TikTok, Instagram, YouTube, X, LinkedIn and Facebook from the same place.
+
+**Areas:** AI · Video Editing · Automation · API · Productivity
+
+## AskEditor on APIs.io
+
+Everything profiled for AskEditor is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/askeditor-com/](https://apis.io/providers/askeditor-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [AskEditor Estimate API](https://apis.io/apis/askeditor-com/askeditor-com-estimate-api/) — The Estimate API from AskEditor — 1 operation(s) for estimate.
+- [AskEditor Recipes API](https://apis.io/apis/askeditor-com/askeditor-com-recipes-api/) — The Recipes API from AskEditor — 1 operation(s) for recipes.
+- [AskEditor Run API](https://apis.io/apis/askeditor-com/askeditor-com-run-api/) — The Run API from AskEditor — 1 operation(s) for run.
+- [AskEditor Uploads API](https://apis.io/apis/askeditor-com/askeditor-com-uploads-api/) — The Uploads API from AskEditor — 3 operation(s) for uploads.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Askeditor Com Agentic Access](https://apis.io/agentic-access/askeditor-com/askeditor-com-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [Estimate](https://apis.io/schemas/askeditor-com/askeditor-com-estimate/)
+- [Template](https://apis.io/schemas/askeditor-com/askeditor-com-template/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AskEditor API Rules](https://apis.io/rules/askeditor-com/askeditor-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Askeditor Com Authentication](https://apis.io/security/askeditor-com/askeditor-com-authentication/)
+- [Askeditor Com Domain Security](https://apis.io/security/askeditor-com/askeditor-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Askeditor Com Scopes](https://apis.io/scopes/askeditor-com/askeditor-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Askeditor Com Plans Pricing](https://apis.io/plans/askeditor-com/askeditor-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://askeditor.com/)
+- [Documentation](https://askeditor.com/docs/)
+- [Getting started](https://askeditor.com/docs/quickstart/rest.md)
+- [API reference](https://askeditor.com/docs/api-reference/overview.md)
+- [Pricing](https://askeditor.com/pricing)
+- [Support](https://askeditor.com/contact)
+- [Changelog](https://askeditor.com/docs/changelog)
+- [Blog](https://askeditor.com/blog)
+- [Terms of service](https://askeditor.com/terms-of-service)
+- [Privacy policy](https://askeditor.com/privacy-policy)
+- [GitHub](https://github.com/AskEditor)
+
+## API Evangelist rating
+
+**Kin Score 59.6** — strong · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 43.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 28.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/askeditor-com/](https://apis.io/providers/askeditor-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AskEditor: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/askeditor-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
